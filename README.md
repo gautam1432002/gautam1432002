@@ -1,34 +1,28 @@
 <div align="center">
-  
-  <!-- PASTE YOUR UPLOADED BANNER URL INSIDE src="" BELOW -->
-  <img src="PASTE_YOUR_GITHUB_ASSET_LINK_HERE" alt="Gautam Verma Banner" width="100%" style="border-radius: 12px;" />
 
-  <br />
+<!-- PASTE YOUR WIDE ANIME VALLEY BANNER URL HERE -->
+<img src="https://via.placeholder.com/1200x300/0f0c29/00f7ff?text=PASTE+YOUR+ANIME+VALLEY+BANNER+URL+HERE" width="100%" style="border-radius: 15px;"/>
 
-  <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=const+dev+%3D+%22Gautam+Verma%22%3B;Full-Stack+%26+Mobile+App+Architect;AI+Systems+%26+Interactive+Web+Builder;1st+Place+Winner+%40+Snowhack+Hackathon" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <p align="center">
-    <a href="mailto:vermagautam637@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vermagautam637%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=gautam1432002&style=for-the-badge&color=6366F1" alt="Profile Views" />
-  </p>
+![Profile Views](https://komarev.com/ghpvc/?username=gautam1432002&label=SIGNAL+RECEIVED&color=ff00e0&style=for-the-badge&labelColor=0f0c29)
+
 </div>
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f7ff,100:ff00e0&height=3&section=header"/>
 
-### ⚡ `<about_me>`
+## 〔 SYSTEM.PROFILE 〕
+
+<table width="100%" style="border: none;">
+<tr>
+<td width="75%" valign="center">
 
 ```yaml
-developer: "Gautam Verma"
-role: "Full-Stack & Mobile Engineer"
-education: "B.Tech in Computer Science & Engineering"
-architecture: ["RESTful APIs", "Cross-Platform Mobile", "AI Integration", "Real-Time Web"]
-design_aesthetic: "Dark Space UI (#0A0E27), Glassmorphism & Bento Layouts"
-current_focus: "Serverless Mobile Architecture, Web Audio/3D & AI Threat Detection"
+identity:
+  name: "Gautam Verma"
+  role: "Backend Developer × Flutter Engineer × GenAI Explorer"
+  base: "Indore, India"
+  status: "Final-year B.Tech CSE @ Swami Vivekanand College of Engineering (RGPV Bhopal)"
+  graduation: "June 2026"
+  current_frequency: "Cricket stats, space aesthetics, IPL season builds"
+  build_philosophy: "Ship interfaces that feel like they're from another timeline"
